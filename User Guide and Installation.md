@@ -17,17 +17,15 @@ In this repository you can find two files:
 ### Installation
 To install the program and the udl file, please follow the next steps:
 
-1. **Installation of Notepad++**
-
-<br>You can download the file I have provided to you or go to [Notepad++](https://notepad-plus-plus.org/downloads/) to download the last version
+#### 1. **Installation of Notepad++**
+You can download the file I have provided to you or go to [Notepad++](https://notepad-plus-plus.org/downloads/) to download the last version
 * download the file
 * click on Install
 * finish the installation by clicking Ok or Next in all the windows of the setup wizard
 * launch the program
 
-2. **Configuration of Notepad++**
-
-<br>In order to use Notepad++ with the UDL that you are going to install, please, do the following ammendments:
+#### 2. **Configuration of Notepad++**
+In order to use Notepad++ with the UDL that you are going to install, please, do the following ammendments:
 * Open **Notepad++**
 * In the window it will appear, go to *Editing* and make sure that in the section *Line Wrap* the radio button *Aligned* is selected
 * Go to *Language* and, in the section *Tab Size*, please change 4 by 2 and make sure that the option *Replace by space* is selected
@@ -36,9 +34,8 @@ To install the program and the udl file, please follow the next steps:
 
 Until now, Notepad++ has been installed and configured and you can use it to write something, but it remains to install the UDL file.
 
-3. **UDL Configuration**
-
-<br>Follow the next steps:
+#### 3. **UDL Configuration**
+Follow the next steps:
 * Download the file *PseudocodeByJoseVteEsteve.xml* you can find in this repository
 * Open Notepad++
 * Go to *Language* --> *User Defined Language* -->*Define your language*
