@@ -17,7 +17,7 @@ In this repository you can find two files:
 ### Installation
 To install the program and the udl file, please follow the next steps:
 
-1.**Installation of Notepad++**
+1. **Installation of Notepad++**
 You can download the file I have provided to you or go to [Notepad++](https://notepad-plus-plus.org/downloads/) to download the last version
 * download the file
 * click on Install
@@ -54,7 +54,7 @@ Now, you should check if the installation has been successful and all is done. D
 Now, you can begin writing pseudocode programs using this hightlighting syntax. 
 
 # Improvements for newer versions
-- Make <-- using only one character
+- Make <-- (assignment operator) using only one character
 
 
 
