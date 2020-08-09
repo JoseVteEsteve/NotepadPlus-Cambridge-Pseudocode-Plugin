@@ -1,4 +1,4 @@
-# Unofficial Cambdridge Pseudocode Language Plugin for Notepad ++
+# Unofficial Cambridge Pseudocode Language Plugin for Notepad ++
 
 ### Cambridge Pseudocode
 Cambridge International offers their students the opportunity to course the subject Computer Science in the following key stages:
@@ -15,17 +15,17 @@ In this repository you can find two files:
 
 
 ### Installation
-To install the program and the udl file, please follow the next steps:
+<br>To install the program and the udl file, please follow the next steps:
 
 1. **Installation of Notepad++**
-You can download the file I have provided to you or go to [Notepad++](https://notepad-plus-plus.org/downloads/) to download the last version
+<br>You can download the file I have provided to you or go to [Notepad++](https://notepad-plus-plus.org/downloads/) to download the last version
 * download the file
 * click on Install
 * finish the installation by clicking Ok or Next in all the windows of the setup wizard
 * launch the program
 
 2. **Configuration of Notepad++**
-In order to use Notepad++ with the UDL that you are going to install, please, do the following ammendments:
+<br>In order to use Notepad++ with the UDL that you are going to install, please, do the following ammendments:
 * Open **Notepad++**
 * In the window it will appear, go to *Editing* and make sure that in the section *Line Wrap* the radio button *Aligned* is selected
 * Go to *Language* and, in the section *Tab Size*, please change 4 by 2 and make sure that the option *Replace by space* is selected
@@ -35,7 +35,7 @@ In order to use Notepad++ with the UDL that you are going to install, please, do
 Until now, Notepad++ has been installed and configured and you can use it to write something, but it remains to install the UDL file.
 
 3. **UDL Configuration**
-Follow the next steps:
+<br>Follow the next steps:
 * Download the file *PseudocodeByJoseVteEsteve.xml* you can find in this repository
 * Open Notepad++
 * Go to *Language* --> *User Defined Language* -->*Define your language*
@@ -51,10 +51,10 @@ Now, you should check if the installation has been successful and all is done. D
 
 
 ### Writing pseudocode
-Now, you can begin writing pseudocode programs using this hightlighting syntax. 
+<br>Now, you can begin writing pseudocode programs using this hightlighting syntax. 
 
 # Improvements for newer versions
-- Make <-- (assignment operator) using only one character
+<br>- Make <-- (assignment operator) using only one character
 
 
 
