@@ -15,9 +15,10 @@ In this repository you can find two files:
 
 
 ### Installation
-<br>To install the program and the udl file, please follow the next steps:
+To install the program and the udl file, please follow the next steps:
 
 1. **Installation of Notepad++**
+
 <br>You can download the file I have provided to you or go to [Notepad++](https://notepad-plus-plus.org/downloads/) to download the last version
 * download the file
 * click on Install
@@ -25,6 +26,7 @@ In this repository you can find two files:
 * launch the program
 
 2. **Configuration of Notepad++**
+
 <br>In order to use Notepad++ with the UDL that you are going to install, please, do the following ammendments:
 * Open **Notepad++**
 * In the window it will appear, go to *Editing* and make sure that in the section *Line Wrap* the radio button *Aligned* is selected
@@ -35,6 +37,7 @@ In this repository you can find two files:
 Until now, Notepad++ has been installed and configured and you can use it to write something, but it remains to install the UDL file.
 
 3. **UDL Configuration**
+
 <br>Follow the next steps:
 * Download the file *PseudocodeByJoseVteEsteve.xml* you can find in this repository
 * Open Notepad++
@@ -51,10 +54,10 @@ Now, you should check if the installation has been successful and all is done. D
 
 
 ### Writing pseudocode
-<br>Now, you can begin writing pseudocode programs using this hightlighting syntax. 
+Now, you can begin writing pseudocode programs using this hightlighting syntax. 
 
 # Improvements for newer versions
-<br>- Make <-- (assignment operator) using only one character
+- Make <-- (assignment operator) using only one character
 
 
 
